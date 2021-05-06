@@ -23,7 +23,7 @@ h5 {
 
 .button {
   color: #ffffff;
-  background-color: #3e96e9;
+  background-color: #e7b64d;
   padding: 12px 25px;
   font-size: 12px;
   letter-spacing: 1px;
@@ -90,7 +90,7 @@ input {
     border-color: #24cf5f; }
   input:focus {
     outline: none;
-    border-color: #3e96e9; }
+    border-color: #e7b64d; }
 
 .form-list {
   padding-left: 0;
@@ -216,7 +216,7 @@ overflow-y: auto;
     left: 0;
     height: 200%;
     width: 200%;
-    background-color: #3e96e9;
+    background-color: #e7b64d;
     border-radius: 50%;
     -webkit-transform: translateX(-50%) translateY(-25%);
             transform: translateX(-50%) translateY(-25%); }
